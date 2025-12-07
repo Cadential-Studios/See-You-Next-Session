@@ -1,0 +1,61 @@
+# Unity project
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+UserSettings/
+
+# Generated project files
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE specific
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Asset store tools
+/Assets/AssetStoreTools*
+
+# Crash and profiler data
+sysinfo.txt
+*.stacktrace
+*.dmp
+*.diag
+
+# Unity cache
+MemoryCaptures/
+
+# Builds and packages
+*.apk
+*.aab
+*.unitypackage
+
+# Plastic SCM
+.plastic/
+
+# OS files
+.DS_Store
+Thumbs.db
